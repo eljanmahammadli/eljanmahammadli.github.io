@@ -26,6 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Engineer"
   location         : "Baku, Azerbaijan"
+  location         : "George Washington University"
   employer         : "Polygraf AI"
   uri              : # URL
   email            : "eljan.mahammadli@gwmail.gwu.edu" 
@@ -58,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "eljanmahammadli"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -213,16 +214,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
