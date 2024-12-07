@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 # About Me
 
 I'm a Machine Learning Engineer at Polygraf AI and a recent graduate from George Washington University's M.S. in Computer Science program. My research interests span across various areas of artificial intelligence, including large language models (LLMs), vision-language models (VLMs), and multimodal systems. I'm particularly interested in advancing the capabilities and efficiency of these systems through novel architectural approaches and deployment strategies.
