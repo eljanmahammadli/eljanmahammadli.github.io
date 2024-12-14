@@ -15,7 +15,7 @@ At George Washington University, under the supervision of [Dr. Samir Rustamov](h
 ## 🎓 PhD Applications - Fall 2025
 I'm seeking PhD positions starting Fall 2025, with research interests focused on:
 - Large Language Models: Architectures, efficiency, and scaling dynamics
-- Vision-Language Models: Multimodal understanding and reasoning
+- Vision-Language Models: Multimodal understanding and reasoning  
 - Cross-modal learning and representation
 
-Feel free to reach out if you're interested in collaborating or discussing research opportunities!
+Feel free to reach out at [eljan.mahammadli@gwu.edu](mailto:eljan.mahammadli@gwu.edu) if you're interested in collaborating or discussing research opportunities!
