@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="display:none;">Elcan Məhəmmədli, Elcan Mehemmedli, Eljan Mahammadli</span>
-
 # About Me
 
 I'm the Head of AI Provenance at [Polygraf AI](https://polygraf.ai), where I lead the development of AI content detection and source attribution technology.
