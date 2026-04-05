@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Eljan Mahammadli"
 title_separator          : "-"
 name                     : &name "Eljan Mahammadli"
-description              : &description "personal description"
+description              : &description "Eljan Mahammadli (Elcan Məhəmmədli) — Head of AI Provenance at Polygraf AI. US patent holder, AI content detection, cybersecurity. MSc CS @ George Washington University."
 url                      : https://eljanmahammadli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eljanmahammadli/eljanmahammadli.github.io"
@@ -24,12 +24,12 @@ author:
   avatar           : "eljan-profile.png"
   name             : "Eljan Mahammadli"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. CS @ George Washington University | MLE @ Polygraf AI"
+  bio              : "Head of AI Provenance @ <a href='https://polygraf.ai/'>Polygraf AI</a> | MSc CS @ <a href='https://www.gwu.edu'>GWU</a>"
   location         : "Baku, Azerbaijan"
   location         : "George Washington University"
   employer         : "Polygraf AI"
   uri              : # URL
-  email            : "eljan.mahammadli@gwmail.gwu.edu" 
+  email            : "eljanmahammadli@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
