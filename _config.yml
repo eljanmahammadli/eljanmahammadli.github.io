@@ -21,7 +21,7 @@ repository               : "eljanmahammadli/eljanmahammadli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "eljan-profile.png"
+  avatar           : "eljan-profile.jpg"
   name             : "Eljan Mahammadli"
   pronouns         : # example: "she/her"  
   bio              : "Head of AI Provenance @ <a href='https://polygraf.ai/'>Polygraf AI</a> | MSc CS @ <a href='https://www.gwu.edu'>GWU</a>"
